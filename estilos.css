@@ -1,0 +1,16 @@
+header{
+  background-color: lightblue;
+  color: blue;
+}
+article{
+  background: lightyellow;
+}
+aside{
+  background: pink;
+}
+.color1{
+  background: lightgreen;
+}
+footer{
+  background: lightblue;
+}
